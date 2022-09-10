@@ -1,4 +1,4 @@
-# SpringBootJokesApp
+# Chuck-Norris-Jokes-App
 
 
 This repository is created in process of learing about Spring from Udemy.
