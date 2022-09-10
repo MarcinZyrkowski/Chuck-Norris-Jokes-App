@@ -1,4 +1,4 @@
-# Chuck-Norris-Jokes-App
+# Chuck-Norris-Jokes-App-From-JohnTompson
 
 
 This repository is created in process of learing about Spring from Udemy.
